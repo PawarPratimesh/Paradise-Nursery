@@ -1,1 +1,1 @@
-# Paradise-Nursery
+# Paradise Nursery Shopping Application
